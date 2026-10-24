@@ -1,0 +1,3 @@
+lake,n_scenes,first,last,turb_median_of_medians,turb_min,turb_max,ndci_median,cdom_median
+Maurepas,77,2019-01-06,2024-12-20,13.2907,2.8731,290.4461,0.0009,0.7080
+Pontchartrain,172,2019-01-06,2024-12-20,12.6939,2.6618,115.2836,-0.0301,0.7154

@@ -1,0 +1,283 @@
+OrganizationIdentifier,MonitoringLocationIdentifier,MonitoringLocationName,LatitudeMeasure,LongitudeMeasure,ActivityStartDate,ActivityStartTime/Time,ActivityStartTime/TimeZoneCode,ActivityDepthHeightMeasure/MeasureValue,CharacteristicName,value,ResultMeasure/MeasureUnitCode,ResultSampleFractionText,ResultAnalyticalMethod/MethodName
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2019-02-27,12:00:00,CST,,Chlorophyll a,3.8,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2019-02-27,11:00:00,CST,,Chlorophyll a,8.2,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2019-02-28,11:30:00,CST,,Chlorophyll a,6.7,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2019-03-12,12:00:00,CDT,,Chlorophyll a,1.6,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2019-03-12,11:00:00,CDT,,Chlorophyll a,9.8,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2019-03-13,11:30:00,CDT,,Chlorophyll a,3.3,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2019-03-26,11:00:00,CDT,,Chlorophyll a,7.9,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2019-03-26,12:00:00,CDT,,Chlorophyll a,6.5,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2019-03-27,11:30:00,CDT,,Chlorophyll a,20.6,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2019-04-09,11:00:00,CDT,,Chlorophyll a,3.7,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2019-04-09,12:00:00,CDT,,Chlorophyll a,4.4,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2019-04-10,11:30:00,CDT,,Chlorophyll a,2.6,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2019-05-28,12:00:00,CDT,,Chlorophyll a,26.0,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2019-05-28,11:00:00,CDT,,Chlorophyll a,8.3,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2019-05-29,11:30:00,CDT,,Chlorophyll a,31.6,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2019-06-10,12:00:00,CDT,,Chlorophyll a,37.5,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2019-06-10,11:00:00,CDT,,Chlorophyll a,15.1,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2019-06-11,11:00:00,CDT,,Chlorophyll a,15.1,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2019-06-11,11:30:00,CDT,,Chlorophyll a,14.5,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2019-06-11,12:00:00,CDT,,Chlorophyll a,37.5,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2019-06-12,11:30:00,CDT,,Chlorophyll a,14.5,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2019-06-24,12:00:00,CDT,,Chlorophyll a,4.2,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2019-06-24,11:00:00,CDT,,Chlorophyll a,4.4,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2019-06-25,11:30:00,CDT,,Chlorophyll a,2.8,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2019-06-25,11:00:00,CDT,,Chlorophyll a,4.4,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2019-06-25,12:00:00,CDT,,Chlorophyll a,4.2,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2019-06-26,11:30:00,CDT,,Chlorophyll a,2.8,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2019-07-31,12:00:00,CDT,,Chlorophyll a,4.7,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2019-07-31,11:00:00,CDT,,Chlorophyll a,2.9,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2019-08-02,11:30:00,CDT,,Chlorophyll a,5.4,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2019-10-18,11:00:00,CDT,,Chlorophyll a,3.5,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2019-10-18,12:00:00,CDT,,Chlorophyll a,4.0,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2019-10-22,11:30:00,CDT,,Chlorophyll a,6.0,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2020-04-08,12:00:00,CDT,,Chlorophyll a,3.8,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2020-04-08,11:00:00,CDT,,Chlorophyll a,12.3,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301853090060700,Lake Pontchartrain @ Causeway Bridge nr Mandeville,30.31491823,-90.1020208,2020-04-08,10:00:00,CDT,,Chlorophyll a,13.9,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2020-04-09,11:30:00,CDT,,Chlorophyll a,4.7,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301853090060700,Lake Pontchartrain @ Causeway Bridge nr Mandeville,30.31491823,-90.1020208,2020-04-28,10:00:00,CDT,,Chlorophyll a,3.4,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2020-04-28,12:00:00,CDT,,Chlorophyll a,6.3,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2020-04-28,11:00:00,CDT,,Chlorophyll a,14.6,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2020-04-29,11:30:00,CDT,,Chlorophyll a,4.5,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2020-05-26,11:00:00,CDT,,Chlorophyll a,7.5,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301853090060700,Lake Pontchartrain @ Causeway Bridge nr Mandeville,30.31491823,-90.1020208,2020-05-26,10:00:00,CDT,,Chlorophyll a,3.5,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2020-05-26,12:00:00,CDT,,Chlorophyll a,3.9,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2020-05-27,11:30:00,CDT,,Chlorophyll a,6.8,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2020-06-23,13:00:00,CDT,,Chlorophyll a,10.8,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2020-06-23,11:00:00,CDT,,Chlorophyll a,3.4,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2020-06-23,12:00:00,CDT,,Chlorophyll a,3.8,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301853090060700,Lake Pontchartrain @ Causeway Bridge nr Mandeville,30.31491823,-90.1020208,2020-06-23,10:00:00,CDT,,Chlorophyll a,4.2,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2020-07-27,11:00:00,CDT,,Chlorophyll a,14.6,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301853090060700,Lake Pontchartrain @ Causeway Bridge nr Mandeville,30.31491823,-90.1020208,2020-07-27,10:00:00,CDT,,Chlorophyll a,32.8,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2020-07-27,13:00:00,CDT,,Chlorophyll a,9.5,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2020-07-27,12:00:00,CDT,,Chlorophyll a,5.8,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2020-09-01,12:00:00,CDT,,Chlorophyll a,18.4,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2020-09-01,13:00:00,CDT,,Chlorophyll a,6.4,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2020-09-01,11:00:00,CDT,,Chlorophyll a,7.2,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301853090060700,Lake Pontchartrain @ Causeway Bridge nr Mandeville,30.31491823,-90.1020208,2020-09-01,10:00:00,CDT,,Chlorophyll a,11.0,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2020-09-28,10:00:00,CDT,,Chlorophyll a,11.5,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2020-09-28,11:30:00,CDT,,Chlorophyll a,11.7,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301853090060700,Lake Pontchartrain @ Causeway Bridge nr Mandeville,30.31491823,-90.1020208,2020-09-28,08:00:00,CDT,,Chlorophyll a,15.1,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2020-09-28,09:00:00,CDT,,Chlorophyll a,11.4,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2020-10-26,09:00:00,CDT,,Chlorophyll a,5.7,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301853090060700,Lake Pontchartrain @ Causeway Bridge nr Mandeville,30.31491823,-90.1020208,2020-10-26,08:00:00,CDT,,Chlorophyll a,3.8,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2020-10-26,11:30:00,CDT,,Chlorophyll a,5.0,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2020-10-26,10:00:00,CDT,,Chlorophyll a,4.7,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2020-11-16,12:00:00,CST,,Chlorophyll a,3.8,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2020-11-16,11:00:00,CST,,Chlorophyll a,6.4,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2020-11-16,09:00:00,CST,,Chlorophyll a,7.2,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301853090060700,Lake Pontchartrain @ Causeway Bridge nr Mandeville,30.31491823,-90.1020208,2020-11-16,10:00:00,CST,,Chlorophyll a,7.7,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2021-08-12,11:00:00,CDT,,Chlorophyll a,4.1,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2021-08-13,12:00:00,CDT,,Chlorophyll a,6.6,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2021-08-13,10:00:00,CDT,,Chlorophyll a,11.0,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2021-09-24,11:00:00,CDT,,Chlorophyll a,6.4,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2021-09-27,09:00:00,CDT,,Chlorophyll a,2.1,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2021-09-27,08:00:00,CDT,,Chlorophyll a,7.9,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2021-10-26,10:00:00,CDT,,Chlorophyll a,4.4,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2021-10-26,11:00:00,CDT,,Chlorophyll a,8.5,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2021-10-28,09:30:00,CDT,,Chlorophyll a,3.3,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301050089511600,Lake Pontchartrain @ Hwy 11 Causeway nr Slidell,30.18075275,-89.8545099,2021-12-07,09:00:00,CST,,Chlorophyll a,4.9,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-300412090084300,Lake Pontchartrain @ Causeway Bridge nr Metairie,30.0702013,-90.1453526,2021-12-07,10:00:00,CST,,Chlorophyll a,4.8,ug/l,,"Plant pigments, sonication & 445"
+USGS-LA,USGS-301528090064600,"Lake Pontchartrain at Causeway near Mandeville, LA",30.25797506,-90.11285399,2021-12-07,10:30:00,CST,,Chlorophyll a,14.5,ug/l,,"Plant pigments, sonication & 445"
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2019-01-08,10:55:00,CST,,Turbidity,6.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2019-01-15,10:06:00,CST,,Turbidity,3.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2019-02-05,01:20:00,CST,,Turbidity,11.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2019-02-13,11:58:00,CST,,Turbidity,6.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2019-03-07,11:30:00,CST,,Turbidity,45.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2019-03-12,08:57:00,CST,,Turbidity,10.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2019-04-08,10:35:00,CST,,Turbidity,24.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2019-04-16,08:52:00,CST,,Turbidity,27.7,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2019-05-07,10:40:00,CST,,Turbidity,7.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2019-05-14,08:42:00,CST,,Turbidity,14.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2019-06-04,11:15:00,CST,,Turbidity,20.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2019-06-12,09:02:00,CST,,Turbidity,8.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2019-07-09,11:18:00,CST,,Turbidity,5.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2019-07-30,09:35:00,CST,,Turbidity,11.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2019-08-06,11:15:00,CST,,Turbidity,3.7,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2019-08-13,09:06:00,CST,,Turbidity,22.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2019-09-10,09:04:00,CST,,Turbidity,14.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2019-09-10,10:20:00,CST,,Turbidity,2.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2019-10-08,10:40:00,CST,,Turbidity,10.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2019-11-13,11:55:00,CST,,Turbidity,34.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2019-12-13,12:15:00,CST,,Turbidity,63.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2020-01-08,11:45:00,CST,,Turbidity,26.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2020-02-13,11:22:00,CST,,Turbidity,70.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2020-03-11,11:35:00,CST,,Turbidity,29.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2020-05-12,12:26:00,CST,,Turbidity,53.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2020-06-18,10:57:00,CST,,Turbidity,16.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2020-07-16,01:27:00,CST,,Turbidity,11.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2020-08-12,11:58:00,CST,,Turbidity,7.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2020-09-17,12:35:00,CST,,Turbidity,8.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2020-10-06,13:55:00,CST,,Turbidity,3.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2020-11-05,12:10:00,CST,,Turbidity,3.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2020-12-08,10:30:00,CST,,Turbidity,5.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2021-01-05,12:26:00,CST,,Turbidity,1.7,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2021-02-09,12:10:00,CST,,Turbidity,5.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2021-03-09,12:30:00,CST,,Turbidity,6.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2021-04-06,11:45:00,CST,,Turbidity,5.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2021-05-11,11:00:00,CST,,Turbidity,19.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2021-06-08,12:20:00,CST,,Turbidity,21.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5075,"Lake Pontchartrain South-Southwest of Lacombe, Louisiana",30.2879,-89.9911,2021-06-14,12:15:00,CST,0.5,Turbidity,14.7,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5079,"Lake Pontchartrain Southeast of Lewisburg, Louisiana",30.2996,-90.0059,2021-06-14,11:05:00,CST,0.5,Turbidity,12.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5079,"Lake Pontchartrain Southeast of Lewisburg, Louisiana",30.2996,-90.0059,2021-06-14,11:05:00,CST,0.5,Turbidity,12.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5075,"Lake Pontchartrain South-Southwest of Lacombe, Louisiana",30.2879,-89.9911,2021-06-14,12:15:00,CST,0.5,Turbidity,14.7,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5073,"Lake Pontchartrain Southeast of Mandeville, Louisiana",30.3137,-90.0173,2021-06-14,10:05:00,CST,0.5,Turbidity,10.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5073,"Lake Pontchartrain Southeast of Mandeville, Louisiana",30.3137,-90.0173,2021-06-14,10:05:00,CST,0.5,Turbidity,10.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2021-07-13,11:35:00,CST,1.0,Turbidity,14.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5089,"Lake Maurepas North-Northwest of Laplace, Louisiana",30.2949,-90.5382,2021-07-15,10:38:00,CST,0.5,Turbidity,10.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5085,"Lake Maurepas South of Killian, Louisiana",30.2931,-90.5571,2021-07-15,09:10:00,CST,0.5,Turbidity,12.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5086,"Lake Maurepas East of Maurepas, Louisiana",30.2926,-90.5477,2021-07-15,09:34:00,CST,0.5,Turbidity,20.7,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5089,"Lake Maurepas North-Northwest of Laplace, Louisiana",30.2949,-90.5382,2021-07-15,10:38:00,CST,0.5,Turbidity,10.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5085,"Lake Maurepas South of Killian, Louisiana",30.2931,-90.5571,2021-07-15,09:10:00,CST,0.5,Turbidity,12.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5086,"Lake Maurepas East of Maurepas, Louisiana",30.2926,-90.5477,2021-07-15,09:34:00,CST,0.5,Turbidity,20.7,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5119,"Lake Pontchartrain North of Saint Rose, Louisiana",30.1016,-90.3044,2021-07-26,09:50:00,CST,0.5,Turbidity,15.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5116,"Lake Pontchartrain Northeast of Killona, Louisiana",30.0872,-90.3397,2021-07-26,10:46:00,CST,0.5,Turbidity,15.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5095,"Lake Pontchartrain East-Northeast of Killona, Louisiana",30.0719,-90.3065,2021-07-26,11:08:00,CST,0.5,Turbidity,7.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5119,"Lake Pontchartrain North of Saint Rose, Louisiana",30.1016,-90.3044,2021-07-26,09:50:00,CST,0.5,Turbidity,15.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5095,"Lake Pontchartrain East-Northeast of Killona, Louisiana",30.0719,-90.3065,2021-07-26,11:08:00,CST,0.5,Turbidity,7.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5116,"Lake Pontchartrain Northeast of Killona, Louisiana",30.0872,-90.3397,2021-07-26,10:46:00,CST,0.5,Turbidity,15.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5131,"Lake Pontchartrain North-Northwest of Harahan, Louisiana",30.0654,-90.2851,2021-08-09,09:45:00,CST,0.5,Turbidity,8.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5138,"Lake Pontchartrain North of Destrehan, Louisiana",30.0979,-90.2859,2021-08-09,10:15:00,CST,0.5,Turbidity,11.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5138,"Lake Pontchartrain North of Destrehan, Louisiana",30.0979,-90.2859,2021-08-09,10:15:00,CST,0.5,Turbidity,11.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5134,"Lake Pontchartrain Northeast of Taft, Louisiana",30.0794,-90.3465,2021-08-09,11:18:00,CST,0.5,Turbidity,16.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5134,"Lake Pontchartrain Northeast of Taft, Louisiana",30.0794,-90.3465,2021-08-09,11:18:00,CST,0.5,Turbidity,16.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5131,"Lake Pontchartrain North-Northwest of Harahan, Louisiana",30.0654,-90.2851,2021-08-09,09:45:00,CST,0.5,Turbidity,8.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2021-08-10,12:20:00,CST,1.0,Turbidity,11.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-4471,"Lake Maurepas Southeast of Maurepas, Louisiana",30.2031,-90.5581,2021-11-09,11:19:00,CST,1.0,Turbidity,22.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2021-11-09,12:00:00,CST,1.0,Turbidity,21.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2021-12-07,10:55:00,CST,1.0,Turbidity,26.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-4471,"Lake Maurepas Southeast of Maurepas, Louisiana",30.2031,-90.5581,2022-01-06,11:40:00,CST,1.0,Turbidity,55.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2022-01-19,11:30:00,CST,1.0,Turbidity,20.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2022-02-08,11:00:00,CST,1.0,Turbidity,11.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-4471,"Lake Maurepas Southeast of Maurepas, Louisiana",30.2031,-90.5581,2022-02-08,10:49:00,CST,1.0,Turbidity,30.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2022-03-08,10:45:00,CST,1.0,Turbidity,16.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-4471,"Lake Maurepas Southeast of Maurepas, Louisiana",30.2031,-90.5581,2022-03-08,10:11:00,CST,1.0,Turbidity,45.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5140,"Lake Maurepas South of Ponchatoula, Louisiana",30.3022,-90.4689,2022-03-28,09:40:00,CST,1.02,Turbidity,17.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5140,"Lake Maurepas South of Ponchatoula, Louisiana",30.3022,-90.4689,2022-03-28,09:40:00,CST,1.02,Turbidity,17.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5141,"Lake Pontchartrain North-Northwest of Westwego, Louisiana",30.1167,-90.2315,2022-03-28,11:30:00,CST,0.53,Turbidity,9.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5141,"Lake Pontchartrain North-Northwest of Westwego, Louisiana",30.1167,-90.2315,2022-03-28,11:30:00,CST,1.0,Turbidity,9.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5140,"Lake Maurepas South of Ponchatoula, Louisiana",30.3022,-90.4689,2022-03-28,09:40:00,CST,1.02,Turbidity,17.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5141,"Lake Pontchartrain North-Northwest of Westwego, Louisiana",30.1167,-90.2315,2022-03-28,11:30:00,CST,1.0,Turbidity,9.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5140,"Lake Maurepas South of Ponchatoula, Louisiana",30.3022,-90.4689,2022-03-28,09:40:00,CST,0.52,Turbidity,17.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5141,"Lake Pontchartrain North-Northwest of Westwego, Louisiana",30.1167,-90.2315,2022-03-28,11:30:00,CST,1.0,Turbidity,9.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-4471,"Lake Maurepas Southeast of Maurepas, Louisiana",30.2031,-90.5581,2022-04-07,10:45:00,CST,1.0,Turbidity,28.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2022-04-12,12:20:00,CST,1.0,Turbidity,30.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-4471,"Lake Maurepas Southeast of Maurepas, Louisiana",30.2031,-90.5581,2022-05-03,10:15:00,CST,1.0,Turbidity,16.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5155,"Lake Maurepas East-Northeast of Port Vincent, Louisiana",30.3129,-90.4771,2022-05-04,11:38:00,CST,0.53,Turbidity,32.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5159,"Lake Maurepas North-Northeast of Laplace, Louisiana",30.2748,-90.4613,2022-05-04,10:54:00,CST,0.55,Turbidity,11.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5155,"Lake Maurepas East-Northeast of Port Vincent, Louisiana",30.3129,-90.4771,2022-05-04,11:38:00,CST,0.53,Turbidity,29.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5155,"Lake Maurepas East-Northeast of Port Vincent, Louisiana",30.3129,-90.4771,2022-05-04,11:38:00,CST,0.93,Turbidity,29.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5159,"Lake Maurepas North-Northeast of Laplace, Louisiana",30.2748,-90.4613,2022-05-04,10:54:00,CST,0.55,Turbidity,11.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5163,"Lake Maurepas East of Port Vincent, Louisiana",30.3084,-90.4841,2022-05-04,09:28:00,CST,1.0,Turbidity,17.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5159,"Lake Maurepas North-Northeast of Laplace, Louisiana",30.2748,-90.4613,2022-05-04,10:54:00,CST,1.49,Turbidity,11.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5163,"Lake Maurepas East of Port Vincent, Louisiana",30.3084,-90.4841,2022-05-04,09:28:00,CST,1.0,Turbidity,18.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5163,"Lake Maurepas East of Port Vincent, Louisiana",30.3084,-90.4841,2022-05-04,09:28:00,CST,0.49,Turbidity,18.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5155,"Lake Maurepas East-Northeast of Port Vincent, Louisiana",30.3129,-90.4771,2022-05-04,11:38:00,CST,0.53,Turbidity,32.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5163,"Lake Maurepas East of Port Vincent, Louisiana",30.3084,-90.4841,2022-05-04,09:28:00,CST,1.0,Turbidity,17.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5159,"Lake Maurepas North-Northeast of Laplace, Louisiana",30.2748,-90.4613,2022-05-04,10:54:00,CST,0.55,Turbidity,11.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2022-05-10,10:50:00,CST,1.0,Turbidity,14.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-4471,"Lake Maurepas Southeast of Maurepas, Louisiana",30.2031,-90.5581,2022-06-07,10:08:00,CST,1.0,Turbidity,11.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2022-06-09,10:25:00,CST,1.0,Turbidity,7.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2022-07-12,11:06:00,CST,1.0,Turbidity,5.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-4471,"Lake Maurepas Southeast of Maurepas, Louisiana",30.2031,-90.5581,2022-07-12,09:12:00,CST,1.0,Turbidity,18.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-4471,"Lake Maurepas Southeast of Maurepas, Louisiana",30.2031,-90.5581,2022-08-09,09:12:00,CST,1.0,Turbidity,50.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2022-08-18,12:35:00,CST,1.0,Turbidity,11.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2022-09-13,10:20:00,CST,1.0,Turbidity,5.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-4471,"Lake Maurepas Southeast of Maurepas, Louisiana",30.2031,-90.5581,2022-09-13,09:31:00,CST,1.0,Turbidity,22.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5213,"Lake Pontchartrain Southeast of Lees Landing, Louisiana",30.2777,-90.2547,2022-09-20,09:53:00,CST,1.99,Turbidity,7.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5217,"Lake Pontchartrain East of Manchac, Louisiana",30.2899,-90.2288,2022-09-20,09:20:00,CST,0.48,Turbidity,7.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5213,"Lake Pontchartrain Southeast of Lees Landing, Louisiana",30.2777,-90.2547,2022-09-20,09:53:00,CST,1.99,Turbidity,3.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5217,"Lake Pontchartrain East of Manchac, Louisiana",30.2899,-90.2288,2022-09-20,09:20:00,CST,2.0,Turbidity,4.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5213,"Lake Pontchartrain Southeast of Lees Landing, Louisiana",30.2777,-90.2547,2022-09-20,09:53:00,CST,0.49,Turbidity,7.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5215,"Lake Pontchartrain South of Lees Landing, Louisiana",30.2914,-90.31,2022-09-20,11:00:00,CST,1.49,Turbidity,6.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5217,"Lake Pontchartrain East of Manchac, Louisiana",30.2899,-90.2288,2022-09-20,09:20:00,CST,2.0,Turbidity,4.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5215,"Lake Pontchartrain South of Lees Landing, Louisiana",30.2914,-90.31,2022-09-20,11:00:00,CST,1.49,Turbidity,6.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5217,"Lake Pontchartrain East of Manchac, Louisiana",30.2899,-90.2288,2022-09-20,09:20:00,CST,2.0,Turbidity,7.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5215,"Lake Pontchartrain South of Lees Landing, Louisiana",30.2914,-90.31,2022-09-20,11:00:00,CST,0.5,Turbidity,7.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5215,"Lake Pontchartrain South of Lees Landing, Louisiana",30.2914,-90.31,2022-09-20,11:00:00,CST,1.49,Turbidity,7.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5213,"Lake Pontchartrain Southeast of Lees Landing, Louisiana",30.2777,-90.2547,2022-09-20,09:53:00,CST,1.99,Turbidity,3.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2022-11-02,10:46:00,CST,1.0,Turbidity,5.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2022-11-03,11:37:00,CST,1.0,Turbidity,4.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2022-12-06,12:41:00,CST,1.0,Turbidity,3.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2022-12-07,10:32:00,CST,1.0,Turbidity,4.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2023-01-10,12:01:00,CST,1.0,Turbidity,8.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2023-01-11,11:26:00,CST,1.0,Turbidity,5.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2023-02-07,08:55:00,CST,1.0,Turbidity,31.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2023-02-08,10:33:00,CST,1.0,Turbidity,13.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2023-03-07,11:29:00,CST,1.0,Turbidity,18.7,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2023-03-08,11:02:00,CST,1.0,Turbidity,16.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2023-04-12,10:53:00,CST,1.0,Turbidity,43.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2023-04-14,09:33:00,CST,1.0,Turbidity,17.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2023-05-10,10:58:00,CST,1.0,Turbidity,11.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5256,"Lake Maurepas North of Mount Airy, Louisiana",30.2585,-90.5688,2023-05-16,10:00:00,CST,0.51,Turbidity,12.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5251,"Lake Maurepas East-Northeast of Saint Amant, Louisiana",30.2766,-90.5519,2023-05-16,10:46:00,CST,1.18,Turbidity,8.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5256,"Lake Maurepas North of Mount Airy, Louisiana",30.2585,-90.5688,2023-05-16,10:00:00,CST,0.51,Turbidity,12.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5251,"Lake Maurepas East-Northeast of Saint Amant, Louisiana",30.2766,-90.5519,2023-05-16,10:46:00,CST,0.5,Turbidity,8.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5256,"Lake Maurepas North of Mount Airy, Louisiana",30.2585,-90.5688,2023-05-16,10:00:00,CST,0.51,Turbidity,12.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5222,"Lake Maurepas North-Northeast of Paulina, Louisiana",30.2775,-90.5706,2023-05-16,11:10:00,CST,1.5,Turbidity,9.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5222,"Lake Maurepas North-Northeast of Paulina, Louisiana",30.2775,-90.5706,2023-05-16,11:10:00,CST,1.5,Turbidity,8.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5222,"Lake Maurepas North-Northeast of Paulina, Louisiana",30.2775,-90.5706,2023-05-16,11:10:00,CST,1.5,Turbidity,9.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5251,"Lake Maurepas East-Northeast of Saint Amant, Louisiana",30.2766,-90.5519,2023-05-16,10:46:00,CST,1.18,Turbidity,9.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5222,"Lake Maurepas North-Northeast of Paulina, Louisiana",30.2775,-90.5706,2023-05-16,11:10:00,CST,0.58,Turbidity,8.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2023-05-16,12:49:00,CST,1.0,Turbidity,10.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5251,"Lake Maurepas East-Northeast of Saint Amant, Louisiana",30.2766,-90.5519,2023-05-16,10:46:00,CST,1.18,Turbidity,9.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5256,"Lake Maurepas North of Mount Airy, Louisiana",30.2585,-90.5688,2023-05-16,10:00:00,CST,1.47,Turbidity,12.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5261,"Lake Pontchartrain Southeast of Natalbany, Louisiana",30.3598,-90.2207,2023-05-31,10:05:00,CST,0.5,Turbidity,12.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5266,"Lake Pontchartrain Southeast of Hammond, Louisiana",30.3421,-90.2439,2023-05-31,09:25:00,CST,2.0,Turbidity,5.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5260,"Lake Pontchartrain East-Southeast of Ponchatoula, Louisiana",30.3655,-90.2266,2023-05-31,10:22:00,CST,0.55,Turbidity,5.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5261,"Lake Pontchartrain Southeast of Natalbany, Louisiana",30.3598,-90.2207,2023-05-31,10:05:00,CST,2.0,Turbidity,8.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5260,"Lake Pontchartrain East-Southeast of Ponchatoula, Louisiana",30.3655,-90.2266,2023-05-31,10:22:00,CST,2.05,Turbidity,5.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5261,"Lake Pontchartrain Southeast of Natalbany, Louisiana",30.3598,-90.2207,2023-05-31,10:05:00,CST,0.5,Turbidity,8.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5266,"Lake Pontchartrain Southeast of Hammond, Louisiana",30.3421,-90.2439,2023-05-31,09:25:00,CST,2.0,Turbidity,8.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5260,"Lake Pontchartrain East-Southeast of Ponchatoula, Louisiana",30.3655,-90.2266,2023-05-31,10:22:00,CST,0.55,Turbidity,8.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5266,"Lake Pontchartrain Southeast of Hammond, Louisiana",30.3421,-90.2439,2023-05-31,09:25:00,CST,2.0,Turbidity,5.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5261,"Lake Pontchartrain Southeast of Natalbany, Louisiana",30.3598,-90.2207,2023-05-31,10:05:00,CST,0.5,Turbidity,12.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5260,"Lake Pontchartrain East-Southeast of Ponchatoula, Louisiana",30.3655,-90.2266,2023-05-31,10:22:00,CST,0.55,Turbidity,8.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5266,"Lake Pontchartrain Southeast of Hammond, Louisiana",30.3421,-90.2439,2023-05-31,09:25:00,CST,0.5,Turbidity,8.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2023-06-06,11:55:00,CST,1.0,Turbidity,8.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5270,"Lake Pontchartrain North of Harahan, Louisiana",30.3693,-90.1449,2023-06-08,09:58:00,CST,0.51,Turbidity,21.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5267,"Lake Pontchartrain East of Ponchatoula, Louisiana",30.3813,-90.1841,2023-06-08,10:50:00,CST,0.51,Turbidity,5.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5304,"Lake Pontchartrain North-Northwest of Gretna, Louisiana",30.357,-90.1175,2023-06-08,09:07:00,CST,0.48,Turbidity,10.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5304,"Lake Pontchartrain North-Northwest of Gretna, Louisiana",30.357,-90.1175,2023-06-08,09:07:00,CST,2.01,Turbidity,10.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5267,"Lake Pontchartrain East of Ponchatoula, Louisiana",30.3813,-90.1841,2023-06-08,10:50:00,CST,0.51,Turbidity,4.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5270,"Lake Pontchartrain North of Harahan, Louisiana",30.3693,-90.1449,2023-06-08,09:58:00,CST,1.5,Turbidity,16.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5304,"Lake Pontchartrain North-Northwest of Gretna, Louisiana",30.357,-90.1175,2023-06-08,09:07:00,CST,0.48,Turbidity,10.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5270,"Lake Pontchartrain North of Harahan, Louisiana",30.3693,-90.1449,2023-06-08,09:58:00,CST,0.51,Turbidity,16.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5267,"Lake Pontchartrain East of Ponchatoula, Louisiana",30.3813,-90.1841,2023-06-08,10:50:00,CST,0.51,Turbidity,4.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5304,"Lake Pontchartrain North-Northwest of Gretna, Louisiana",30.357,-90.1175,2023-06-08,09:07:00,CST,0.48,Turbidity,10.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5270,"Lake Pontchartrain North of Harahan, Louisiana",30.3693,-90.1449,2023-06-08,09:58:00,CST,0.51,Turbidity,21.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5267,"Lake Pontchartrain East of Ponchatoula, Louisiana",30.3813,-90.1841,2023-06-08,10:50:00,CST,0.78,Turbidity,5.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2023-06-14,10:56:00,CST,1.0,Turbidity,11.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2023-07-12,11:30:00,CST,1.0,Turbidity,9.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2023-07-13,12:11:00,CST,1.0,Turbidity,6.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5344,"Lake Pontchartrain South- Southwest of Slidell, Louisiana - A",30.2554,-89.9903,2023-08-02,09:40:00,CST,0.5,Turbidity,9.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5344,"Lake Pontchartrain South- Southwest of Slidell, Louisiana - A",30.2554,-89.9903,2023-08-02,09:40:00,CST,2.0,Turbidity,7.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5344,"Lake Pontchartrain South- Southwest of Slidell, Louisiana - A",30.2554,-89.9903,2023-08-02,09:40:00,CST,0.5,Turbidity,9.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5350,"Lake Pontchartrain South- Southwest of Slidell, Louisiana - F",30.2427,-89.9568,2023-08-02,10:45:00,CST,2.0,Turbidity,7.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5344,"Lake Pontchartrain South- Southwest of Slidell, Louisiana - A",30.2554,-89.9903,2023-08-02,09:40:00,CST,0.5,Turbidity,7.1,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5346,"Lake Pontchartrain South- Southwest of Slidell, Louisiana - C",30.2493,-89.9782,2023-08-02,10:15:00,CST,0.5,Turbidity,15.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5350,"Lake Pontchartrain South- Southwest of Slidell, Louisiana - F",30.2427,-89.9568,2023-08-02,10:45:00,CST,2.0,Turbidity,7.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5350,"Lake Pontchartrain South- Southwest of Slidell, Louisiana - F",30.2427,-89.9568,2023-08-02,10:45:00,CST,0.5,Turbidity,8.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5346,"Lake Pontchartrain South- Southwest of Slidell, Louisiana - C",30.2493,-89.9782,2023-08-02,10:15:00,CST,1.5,Turbidity,13.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5346,"Lake Pontchartrain South- Southwest of Slidell, Louisiana - C",30.2493,-89.9782,2023-08-02,10:15:00,CST,0.5,Turbidity,15.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5346,"Lake Pontchartrain South- Southwest of Slidell, Louisiana - C",30.2493,-89.9782,2023-08-02,10:15:00,CST,0.5,Turbidity,13.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-5350,"Lake Pontchartrain South- Southwest of Slidell, Louisiana - F",30.2427,-89.9568,2023-08-02,10:45:00,CST,2.0,Turbidity,8.5,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2023-08-08,11:15:00,CST,1.0,Turbidity,5.9,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2023-08-09,11:14:00,CST,1.0,Turbidity,6.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2023-09-12,11:20:00,CST,1.0,Turbidity,3.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2023-09-13,10:37:00,CST,1.0,Turbidity,3.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-1075,"Lake Pontchartrain Southeast of Slidell, Louisiana",30.1767,-89.7544,2023-10-10,12:02:00,CST,1.0,Turbidity,5.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2023-10-11,10:25:00,CST,1.0,Turbidity,11.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2023-11-14,09:43:00,CST,1.0,Turbidity,4.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2023-12-12,09:59:00,CST,1.0,Turbidity,9.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2024-01-23,10:45:00,CST,1.0,Turbidity,15.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2024-02-20,10:09:00,CST,1.0,Turbidity,18.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2024-03-12,10:23:00,CST,1.0,Turbidity,15.7,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2024-04-16,10:30:00,CST,1.0,Turbidity,7.8,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2024-05-14,09:10:00,CST,1.0,Turbidity,24.6,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2024-06-18,09:40:00,CST,1.0,Turbidity,18.3,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2024-07-16,10:45:00,CST,1.0,Turbidity,8.0,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2024-08-13,10:05:00,CST,1.0,Turbidity,4.4,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2024-09-17,10:40:00,CST,1.0,Turbidity,7.2,NTU,Total,2130 B ~ Nephelometric Method
+LADEQWPD_WQX,LADEQWPD_WQX-0138,"Lake Pontchartrain Southwest of Slidell, Louisiana",30.1999,-90.1227,2024-10-15,10:47:00,CST,1.0,Turbidity,11.5,NTU,Total,2130 B ~ Nephelometric Method

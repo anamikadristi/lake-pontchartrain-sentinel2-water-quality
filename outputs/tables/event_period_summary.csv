@@ -1,0 +1,16 @@
+period,lake,n_scenes,dates,turb_median,ratio_to_month_ref,plume_frac,plume_area_km2,outfall_sector_median,sector_to_rest_ratio
+BCS 2019: before (1 Jan - 26 Feb 2019),Maurepas,3,01-06 01-11 01-21,30.917,1.201,0.270,62.351,,
+BCS 2019: before (1 Jan - 26 Feb 2019),Pontchartrain,5,01-06 01-11 01-21 01-28 02-07,14.937,0.457,0.025,39.745,63.836,2.949
+BCS 2019: opening 1 (27 Feb - 11 Apr),Maurepas,3,03-22 03-27 04-01,14.142,0.245,0.000,0.002,,
+BCS 2019: opening 1 (27 Feb - 11 Apr),Pontchartrain,6,03-19 03-22 03-24 03-27 04-01 04-03,37.410,1.269,0.277,435.727,70.653,1.917
+BCS 2019: between openings (12 Apr - 9 May),Pontchartrain,1,04-28,32.663,0.856,0.001,1.599,38.833,1.221
+BCS 2019: opening 2 (10 May - 27 Jul),Maurepas,1,06-30,6.918,,0.000,0.075,,
+BCS 2019: opening 2 (10 May - 27 Jul),Pontchartrain,6,05-13 05-23 05-28 06-27 07-07 07-17,7.899,0.625,0.001,2.067,10.483,1.566
+BCS 2019: after (28 Jul - 30 Sep),Maurepas,5,08-29 09-08 09-13 09-23 09-28,4.642,0.881,0.000,0.000,,
+BCS 2019: after (28 Jul - 30 Sep),Pontchartrain,12,08-01 08-06 08-16 08-31 09-05 09-10 09-13 09-18 09-23 09-25 09-28 09-30,3.861,0.652,0.000,0.005,3.833,1.010
+Ida 2021: before (1 Jul - 28 Aug),Maurepas,1,07-29,7.472,1.000,0.000,0.026,,
+Ida 2021: before (1 Jul - 28 Aug),Pontchartrain,9,07-01 07-21 07-26 08-05 08-08 08-10 08-15 08-20 08-25,8.202,1.156,0.000,0.152,5.721,0.978
+Ida 2021: 1-14 days after (30 Aug - 12 Sep),Maurepas,1,09-02,290.446,55.140,0.936,216.550,,
+Ida 2021: 1-14 days after (30 Aug - 12 Sep),Pontchartrain,3,09-04 09-07 09-09,89.298,15.089,0.748,1177.002,94.099,1.447
+Ida 2021: 15-63 days after (13 Sep - 31 Oct),Maurepas,2,10-07 10-12,11.319,2.061,0.000,0.000,,
+Ida 2021: 15-63 days after (13 Sep - 31 Oct),Pontchartrain,5,09-19 09-24 10-07 10-09 10-12,16.933,2.042,0.072,113.691,53.808,3.850

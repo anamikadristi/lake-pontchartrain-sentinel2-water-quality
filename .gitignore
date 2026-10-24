@@ -1,0 +1,14 @@
+# caches and environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# large intermediate rasters and raw downloads (re-created by the scripts)
+work/
+*.npz
+*.SAFE/
+# office files
+*.docx
+~$*

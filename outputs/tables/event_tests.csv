@@ -1,0 +1,10 @@
+test,n_event,n_ref,median_event,median_ref,mannwhitney_U,p_value
+Pontchartrain turb_median: 2019 spillway-open scenes vs 2021-2024 same-month reference,12,16,24.28,12.92,119,0.2962
+Pontchartrain ratio_to_month_ref: 2019 spillway-open scenes vs 2021-2024 same-month reference,12,16,1.054,0.9827,104,0.7277
+Pontchartrain plume_frac: 2019 spillway-open scenes vs 2021-2024 same-month reference,12,16,0.002955,0.0005955,141,0.03884
+Pontchartrain outfall_sector_median: 2019 spillway-open scenes vs 2021-2024 same-month reference,6,14,34.15,11.72,61,0.1297
+Pontchartrain sector_to_rest_ratio: 2019 spillway-open scenes vs 2021-2024 same-month reference,6,14,1.742,0.9884,60,0.1528
+Pontchartrain lake-median NDCI: Jun-Aug 2019 scenes vs Jun-Aug 2021-2024 monthly scenes,7,7,0.0309,-0.0213,38,0.09732
+Maurepas lake-median NDCI: Jun-Aug 2019 scenes vs Jun-Aug 2021-2024 monthly scenes,2,2,0.1303,0.1068,2,1
+Pontchartrain lake-median turbidity: Ida post (30 Aug-30 Sep) vs pre (1 Jul-28 Aug 2021),5,9,66.92,8.202,45,0.000999
+Maurepas lake-median turbidity: Ida post (30 Aug-30 Sep) vs pre (1 Jul-28 Aug 2021),1,1,290.4,7.472,,
