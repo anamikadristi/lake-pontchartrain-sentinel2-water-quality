@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Anamika Dristi</origin>
+        <pubdate>20261023</pubdate>
+        <title>Sentinel-2 turbidity proxy (Dogliotti 2015 algorithm) for 13 May 2019 during the second 2019 Bonnet Carre Spillway opening, Lake Pontchartrain, 40 m</title>
+        <geoform>raster digital data</geoform>
+        <othercit>GitHub repository lake-pontchartrain-sentinel2-water-quality, file outputs/rasters/turbidity_proxy_20190513_bonnet_carre_opening2_40m.tif</othercit>
+        <onlink>https://github.com/anamikadristi/lake-pontchartrain-sentinel2-water-quality</onlink>
+        <onlink>https://github.com/anamikadristi/lake-pontchartrain-sentinel2-water-quality/blob/main/outputs/rasters/turbidity_proxy_20190513_bonnet_carre_opening2_40m.tif</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Single-band float32 GeoTIFF (UTM zone 15N, 40 m cells, 2,148 columns by 1,189 rows) of a Sentinel-2 Level-2A turbidity proxy for Lake Pontchartrain and Lake Maurepas, Louisiana. Imagery was streamed anonymously from the Microsoft Planetary Computer STAC (MGRS tile 15RYP) and read from the cloud-optimized GeoTIFF overviews at 40 m. The raster holds the turbidity proxy of this single scene on all valid water pixels (MNDWI above 0, SCL clear, B11 at most 0.03); it is not restricted to the eroded lake mask, and relative orbit 83 covers only east of about 90.47 W, so Lake Maurepas and the western edge have no data. Source scenes: one scene, S2B_MSIL2A_20190513T162839_R083_T15RYP_20201006T134751 (relative orbit 83, processing baseline 2.12), the clearest scene in the 'Opening 2' period (10 May to 27 July 2019) used in Figure 6. It has 1,013,107 valid cells with values from -17.11 to 228.8 (median 17.29); all other cells are NaN. The index is a relative proxy, not a calibrated concentration. Against in-situ turbidity the proxy was about 37 percent lower than measured values (median ratio 0.63).</abstract>
+      <purpose>Portfolio and research product that gives a lake-wide view of water-quality patterns between field cruises, for comparison with agency monitoring data and for event analysis of the 2019 Bonnet Carre Spillway openings and Hurricane Ida (2021).</purpose>
+      <supplinf>Independent analysis of public data by Anamika Dristi, Ph.D.; it does not use or reproduce any LSU field data. Code is MIT licensed. Contains modified Copernicus Sentinel data (2019 to 2024). The Google Earth Engine script in gee/ was not run and none of these values come from it. Companion rasters in outputs/rasters share the same 40 m grid (upper left corner 725760 E, 3367560 N, EPSG:32615). Scene lists: data/s2_selected_scenes.csv, outputs/tables/lake_scene_stats.csv and outputs/tables/map_scene_list.csv.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20190513</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition (Sentinel-2B acquisition S2B_MSIL2A_20190513T162839_R083_T15RYP_20201006T134751)</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-90.659808</westbc>
+        <eastbc>-89.756169</eastbc>
+        <northbc>30.418993</northbc>
+        <southbc>29.971330</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWaters</themekey>
+        <themekey>environment</themekey>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>turbidity</themekey>
+        <themekey>suspended sediment</themekey>
+        <themekey>water quality</themekey>
+        <themekey>remote sensing</themekey>
+        <themekey>Sentinel-2</themekey>
+        <themekey>river diversion</themekey>
+        <themekey>Bonnet Carre Spillway</themekey>
+        <themekey>event analysis</themekey>
+        <themekey>lake</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>Lake Pontchartrain</placekey>
+        <placekey>Lake Maurepas</placekey>
+        <placekey>Louisiana</placekey>
+        <placekey>Bonnet Carre Spillway</placekey>
+      </place>
+      <place>
+        <placekt>None</placekt>
+        <placekey>southeast Louisiana</placekey>
+        <placekey>Pontchartrain Basin</placekey>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>None, beyond citing the author and the data sources (contains modified Copernicus Sentinel data). Values are relative proxies, not calibrated concentrations; do not report them as FNU, NTU or micrograms per liter without a lake-specific calibration. Not for regulatory or public health decisions.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Anamika Dristi</cntper>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <city>Houston</city>
+          <state>TX</state>
+          <postal>Not provided</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>Not provided (contact by email)</cntvoice>
+        <cntemail>anamikadristi@gmail.com</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Copernicus Sentinel-2 (ESA) data accessed through Microsoft Planetary Computer. Methods: Dogliotti et al. (2015); Mishra and Mishra (2012); Xu (2006).</datacred>
+    <native>Python 3.14 on macOS with rasterio (GDAL), NumPy and pystac-client. GeoTIFF, float32, DEFLATE with floating point predictor.</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Compared with public in-situ turbidity (scripts/08_insitu_matchup.py; outputs/tables/matchup_statistics.csv), using single-scene values from the same processing: USGS New Canal Lighthouse continuous FNU within 1 hour, n = 19, Spearman rho 0.88, log10 RMSE 0.30, median ratio satellite to in situ 0.63; LDEQ discrete NTU within 1 day, n = 13, Spearman rho 0.50 (p = 0.08); all turbidity matchups pooled, n = 32, Spearman rho 0.81, median absolute difference 37 percent. The proxy follows relative changes but reads about 37 percent low. The Dogliotti coefficients were built for 645 and 859 nm and are applied here to Sentinel-2 B04 (665 nm) and B8A (865 nm) surface reflectance after a B11 subtraction, not to water-leaving reflectance. This single-scene map was not compared with in-situ data on its own date.</attraccr>
+    </attracc>
+    <logic>All valid cells are finite float32 values from -17.11 to 228.8; the 1st, 50th and 99th percentiles are 1.971, 17.29 and 42.65. NaN is the nodata value. A cell is valid only if it was open water (MNDWI above 0), clear in the Scene Classification Layer (not class 0, 1, 3, 8, 9, 10 or 11) and had B11 reflectance at most 0.03. The turbidity algorithm is applied only where B11-corrected B04 is above 0 and below 0.16 and B11-corrected B8A is below 0.21. Negative values occur where the B11-corrected B8A reflectance is negative while the red to NIR blend weight is above zero; they were kept as computed.</logic>
+    <complete>Covers the open lake areas of Lake Pontchartrain (1,574 square km analysis mask) and Lake Maurepas (231 square km); the mask is the set of 40 m pixels that were water in at least 90 percent of at least 12 clear observations in the 72 monthly scenes, eroded by 3 pixels (120 m) to limit shoreline mixing. Nearshore water, canals and rivers are not covered. This single scene is not limited to the analysis mask and covers only the part of the lakes east of about 90.47 W seen by relative orbit 83; Lake Maurepas is not covered. Pixels under cloud, shadow or high B11 reflectance are NaN.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Not assessed independently. Cell positions follow the Sentinel-2 Level-2A geolocation on the native UTM zone 15N grid of tile 15RYP, read from the 40 m overview level.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>European Space Agency (Copernicus Sentinel-2)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>Sentinel-2 Level-2A surface reflectance, collection sentinel-2-l2a, MGRS tile 15RYP, bands B02, B03, B04, B05, B8A, B11 and SCL</title>
+            <geoform>remote-sensing image</geoform>
+            <othercit>Accessed anonymously on 2026-10-23; 1,004 STAC items (841 unique acquisitions, 2019-01-01 to 2024-12-30) searched, 239 processed (data/s2_selected_scenes.csv)</othercit>
+            <onlink>https://planetarycomputer.microsoft.com/dataset/sentinel-2-l2a</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20190101</begdate>
+              <enddate>20241230</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>S2L2A</srccitea>
+        <srccontr>Surface reflectance and scene classification for the water mask, the lake mask and the index rasters.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Scene search (scripts/01_search_stac_catalog.py): STAC search of every Level-2A item on tile 15RYP from 2019-01-01 to 2024-12-31; each acquisition kept once. Output: data/s2_catalog_15RYP.csv.</procdesc>
+        <srcused>S2L2A</srcused>
+        <procdate>20261023</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Cloud scoring and scene selection (scripts/03_score_scenes.py, 04_select_scenes.py): for 602 acquisitions with tile cloud cover of 85 percent or less, only the SCL band was read at 160 m to score clear fractions over open-water boxes in each lake; the clearest scene per month was kept (72 of 72 months), plus event and in-situ matchup scenes, 239 scenes in total. Output: data/s2_scene_scores.csv; data/s2_selected_scenes.csv.</procdesc>
+        <srcused>S2L2A</srcused>
+        <procdate>20261023</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Streaming and indices (scripts/05_process_scenes.py, lib_s2.py): the lake window of the six bands and SCL read from COG overviews at 40 m; reflectance = (DN + offset) / 10000 with offset -1000 for processing baseline 04.00 and later. Valid = SCL not 0, 1, 3, 8, 9, 10 or 11; water = valid and MNDWI (B03, B11) above 0; B11 subtracted from every band as a residual glint and haze correction and pixels with B11 above 0.03 dropped. Turbidity proxy = Dogliotti et al. (2015) T = A rho / (1 - rho / C) with A = 228.1, C = 0.1641 on B04 and A = 3078.9, C = 0.2112 on B8A, blended linearly for B04 between 0.05 and 0.07. NDCI = (B05 - B04) / (B05 + B04). Output: per-scene float16 index windows in the S2WQ_WORK folder (not committed).</procdesc>
+        <srcused>S2L2A</srcused>
+        <procdate>20261023</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Lake masks (scripts/06_lake_masks.py): water frequency from the 72 monthly scenes; open water = water in at least 90 percent of at least 12 clear observations; eroded by 3 pixels; Lake Pontchartrain assembled from three seeded components split by the Causeway and the I-10 twin span. Output: data/lake_mask_40m.tif; data/lake_open_water.geojson; data/lake_mask_areas.csv.</procdesc>
+        <srcused>S2L2A</srcused>
+        <procdate>20261023</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Lake time series (scripts/07_lake_timeseries.py): lake medians per scene; a lake and scene pair kept if at least 50 percent of the mask was valid. Output: outputs/tables/lake_scene_stats.csv.</procdesc>
+        <srcused>S2L2A</srcused>
+        <procdate>20261023</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Raster export (scripts/10_maps_gif.py (Bonnet Carre sequence block)): the turbidity proxy of this single scene on all valid water pixels (MNDWI above 0, SCL clear, B11 at most 0.03); it is not restricted to the eroded lake mask, and relative orbit 83 covers only east of about 90.47 W, so Lake Maurepas and the western edge have no data. Written as float32 GeoTIFF, EPSG:32615, 40 m, nodata NaN, DEFLATE with predictor 3, tiled. Output: outputs/rasters/turbidity_proxy_20190513_bonnet_carre_opening2_40m.tif.</procdesc>
+        <srcused>S2L2A</srcused>
+        <procdate>20261023</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>FGDC CSDGM metadata written from the README, the scripts and direct inspection of the GeoTIFF with rasterio (extent, CRS, cell size, value range).</procdesc>
+        <procdate>20261024</procdate>
+      </procstep>
+    </lineage>
+    <cloud>Unknown</cloud>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Grid Cell</rasttype>
+      <rowcount>1189</rowcount>
+      <colcount>2148</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>15</utmzone>
+            <transmer>
+              <sfctrmer>0.9996</sfctrmer>
+              <longcm>-93.0</longcm>
+              <latprjo>0.0</latprjo>
+              <feast>500000.0</feast>
+              <fnorth>0.0</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>40.0</absres>
+            <ordres>40.0</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>World Geodetic System of 1984</horizdn>
+        <ellips>World Geodetic System of 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>turbidity_proxy_20190513_bonnet_carre_opening2_40m.tif</enttypl>
+        <enttypd>Single-band float32 raster on a 40 m UTM zone 15N grid; one value per cell.</enttypd>
+        <enttypds>Anamika Dristi, this study (scripts/10_maps_gif.py)</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Turbidity proxy (band 1)</attrlabl>
+        <attrdef>Turbidity proxy from the Dogliotti et al. (2015) single algorithm applied to B11-corrected Sentinel-2 B04 and B8A surface reflectance.</attrdef>
+        <attrdefs>Anamika Dristi, this study (scripts/10_maps_gif.py)</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-17.1083</rdommin>
+            <rdommax>228.7960</rdommax>
+            <attrunit>FNU-like (relative proxy from the generic Dogliotti et al. 2015 algorithm, not calibrated FNU)</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NaN</edomv>
+            <edomvd>No data: not open water, cloud or shadow, high B11 reflectance, outside the lake mask or outside the scene footprint</edomvd>
+            <edomvds>Anamika Dristi, this study (scripts/10_maps_gif.py)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Relative water-quality proxy; values are not calibrated concentrations. See the README Methods and Limitations sections for the algorithm details and matchup statistics.</eaover>
+      <eadetcit>README.md of the repository; Dogliotti, A.I. and others (2015) Remote Sensing of Environment 156:157-168; Mishra, S. and Mishra, D.R. (2012) Remote Sensing of Environment 117:394-406.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Anamika Dristi</cntper>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <city>Houston</city>
+          <state>TX</state>
+          <postal>Not provided</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>Not provided (contact by email)</cntvoice>
+        <cntemail>anamikadristi@gmail.com</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>GitHub repository anamikadristi/lake-pontchartrain-sentinel2-water-quality, file outputs/rasters/turbidity_proxy_20190513_bonnet_carre_opening2_40m.tif</resdesc>
+    <distliab>This dataset is an independent analysis of public data, provided as is, without warranty of any kind. The author is not responsible for any use of these data. Read the attribute accuracy and completeness sections before use.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>GeoTIFF</formname>
+          <formvern>1.0 (GeoKey directory revision 1.0, written by GDAL through rasterio)</formvern>
+          <formspec>Single band, float32, nodata NaN, EPSG:32615</formspec>
+          <filedec>DEFLATE compression with floating point predictor, tiled</filedec>
+          <transize>3.117</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://github.com/anamikadristi/lake-pontchartrain-sentinel2-water-quality/blob/main/outputs/rasters/turbidity_proxy_20190513_bonnet_carre_opening2_40m.tif</networkr>
+              </networka>
+            </computer>
+            <accinstr>Download the file from the GitHub repository page (no account needed for public repositories).</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+    <techpreq>Any GIS that reads GeoTIFF (for example QGIS, ArcGIS Pro, GDAL).</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20261024</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Anamika Dristi</cntper>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <city>Houston</city>
+          <state>TX</state>
+          <postal>Not provided</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>Not provided (contact by email)</cntvoice>
+        <cntemail>anamikadristi@gmail.com</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

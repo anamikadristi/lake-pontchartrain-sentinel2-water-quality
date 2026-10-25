@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Anamika Dristi</origin>
+        <pubdate>20261023</pubdate>
+        <title>Pixel-wise median Sentinel-2 Normalized Difference Chlorophyll Index (NDCI, chlorophyll-a proxy), Lake Pontchartrain and Lake Maurepas, 38 reference monthly scenes 2021 to 2024, 40 m</title>
+        <geoform>raster digital data</geoform>
+        <othercit>GitHub repository lake-pontchartrain-sentinel2-water-quality, file outputs/rasters/ndci_median_2021_2024_40m.tif</othercit>
+        <onlink>https://github.com/anamikadristi/lake-pontchartrain-sentinel2-water-quality</onlink>
+        <onlink>https://github.com/anamikadristi/lake-pontchartrain-sentinel2-water-quality/blob/main/outputs/rasters/ndci_median_2021_2024_40m.tif</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Single-band float32 GeoTIFF (UTM zone 15N, 40 m cells, 2,148 columns by 1,189 rows) of a Sentinel-2 Level-2A NDCI chlorophyll-a proxy for Lake Pontchartrain and Lake Maurepas, Louisiana. Imagery was streamed anonymously from the Microsoft Planetary Computer STAC (MGRS tile 15RYP) and read from the cloud-optimized GeoTIFF overviews at 40 m. The raster holds pixel-wise median of NDCI over the 38 scenes, set to NaN where fewer than 10 clear water observations were available, and restricted to the open-water lake mask (data/lake_mask_40m.tif). Source scenes: the 38 reference monthly scenes (clearest scene per month in 2021 to 2024 with at least 50 percent of the Pontchartrain mask valid, excluding 29 August to 31 October 2021 after Hurricane Ida; 26 from relative orbit 126 and 12 from relative orbit 83). It has 1,128,557 valid cells with values from -0.1774 to 0.1081 (median -0.03123); all other cells are NaN. The index is a relative proxy, not a calibrated concentration.</abstract>
+      <purpose>Portfolio and research product that gives a lake-wide view of water-quality patterns between field cruises, for comparison with agency monitoring data and for event analysis of the 2019 Bonnet Carre Spillway openings and Hurricane Ida (2021).</purpose>
+      <supplinf>Independent analysis of public data by Anamika Dristi, Ph.D.; it does not use or reproduce any LSU field data. Code is MIT licensed. Contains modified Copernicus Sentinel data (2019 to 2024). The Google Earth Engine script in gee/ was not run and none of these values come from it. Companion rasters in outputs/rasters share the same 40 m grid (upper left corner 725760 E, 3367560 N, EPSG:32615). Scene lists: data/s2_selected_scenes.csv, outputs/tables/lake_scene_stats.csv and outputs/tables/map_scene_list.csv.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20210115</begdate>
+          <enddate>20241220</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition (first and last of the 38 reference monthly scenes)</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-90.659808</westbc>
+        <eastbc>-89.756169</eastbc>
+        <northbc>30.418993</northbc>
+        <southbc>29.971330</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWaters</themekey>
+        <themekey>environment</themekey>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>chlorophyll</themekey>
+        <themekey>chlorophyll a</themekey>
+        <themekey>NDCI</themekey>
+        <themekey>phytoplankton</themekey>
+        <themekey>water quality</themekey>
+        <themekey>remote sensing</themekey>
+        <themekey>Sentinel-2</themekey>
+        <themekey>climatology</themekey>
+        <themekey>lake</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>Lake Pontchartrain</placekey>
+        <placekey>Lake Maurepas</placekey>
+        <placekey>Louisiana</placekey>
+        <placekey>Bonnet Carre Spillway</placekey>
+      </place>
+      <place>
+        <placekt>None</placekt>
+        <placekey>southeast Louisiana</placekey>
+        <placekey>Pontchartrain Basin</placekey>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>None, beyond citing the author and the data sources (contains modified Copernicus Sentinel data). Values are relative proxies, not calibrated concentrations; do not report them as FNU, NTU or micrograms per liter without a lake-specific calibration. Not for regulatory or public health decisions.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Anamika Dristi</cntper>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <city>Houston</city>
+          <state>TX</state>
+          <postal>Not provided</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>Not provided (contact by email)</cntvoice>
+        <cntemail>anamikadristi@gmail.com</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Copernicus Sentinel-2 (ESA) data accessed through Microsoft Planetary Computer. Methods: Dogliotti et al. (2015); Mishra and Mishra (2012); Xu (2006).</datacred>
+    <native>Python 3.14 on macOS with rasterio (GDAL), NumPy and pystac-client. GeoTIFF, float32, DEFLATE with floating point predictor.</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>NDCI tracked USGS chlorophyll fluorescence at New Canal Lighthouse (n = 18, Spearman rho 0.63, p = 0.005) but did not track discrete USGS chlorophyll-a at the causeway stations (n = 11, rho 0.08, p = 0.81) (outputs/tables/matchup_statistics.csv). The median map itself was not compared with in-situ data. NDCI also responds to sediment and CDOM in these turbid lakes.</attraccr>
+    </attracc>
+    <logic>All valid cells are finite float32 values from -0.1774 to 0.1081; the 1st, 50th and 99th percentiles are -0.1098, -0.03123 and 0.02762. NaN is the nodata value. A cell is valid only if it was open water (MNDWI above 0), clear in the Scene Classification Layer (not class 0, 1, 3, 8, 9, 10 or 11) and had B11 reflectance at most 0.03. NDCI is set to NaN where B11-corrected B04 or B05 is 0 or less. Each valid cell has at least 10 clear observations among the 38 reference scenes.</logic>
+    <complete>Covers the open lake areas of Lake Pontchartrain (1,574 square km analysis mask) and Lake Maurepas (231 square km); the mask is the set of 40 m pixels that were water in at least 90 percent of at least 12 clear observations in the 72 monthly scenes, eroded by 3 pixels (120 m) to limit shoreline mixing. Nearshore water, canals and rivers are not covered. The 38 reference scenes are clear-sky scenes, so calm conditions are over-represented. A faint seam in western Lake Pontchartrain comes from mixing orbit 126 and orbit 83 scenes.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Not assessed independently. Cell positions follow the Sentinel-2 Level-2A geolocation on the native UTM zone 15N grid of tile 15RYP, read from the 40 m overview level.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>European Space Agency (Copernicus Sentinel-2)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>Sentinel-2 Level-2A surface reflectance, collection sentinel-2-l2a, MGRS tile 15RYP, bands B02, B03, B04, B05, B8A, B11 and SCL</title>
+            <geoform>remote-sensing image</geoform>
+            <othercit>Accessed anonymously on 2026-10-23; 1,004 STAC items (841 unique acquisitions, 2019-01-01 to 2024-12-30) searched, 239 processed (data/s2_selected_scenes.csv)</othercit>
+            <onlink>https://planetarycomputer.microsoft.com/dataset/sentinel-2-l2a</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20190101</begdate>
+              <enddate>20241230</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>S2L2A</srccitea>
+        <srccontr>Surface reflectance and scene classification for the water mask, the lake mask and the index rasters.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Scene search (scripts/01_search_stac_catalog.py): STAC search of every Level-2A item on tile 15RYP from 2019-01-01 to 2024-12-31; each acquisition kept once. Output: data/s2_catalog_15RYP.csv.</procdesc>
+        <srcused>S2L2A</srcused>
+        <procdate>20261023</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Cloud scoring and scene selection (scripts/03_score_scenes.py, 04_select_scenes.py): for 602 acquisitions with tile cloud cover of 85 percent or less, only the SCL band was read at 160 m to score clear fractions over open-water boxes in each lake; the clearest scene per month was kept (72 of 72 months), plus event and in-situ matchup scenes, 239 scenes in total. Output: data/s2_scene_scores.csv; data/s2_selected_scenes.csv.</procdesc>
+        <srcused>S2L2A</srcused>
+        <procdate>20261023</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Streaming and indices (scripts/05_process_scenes.py, lib_s2.py): the lake window of the six bands and SCL read from COG overviews at 40 m; reflectance = (DN + offset) / 10000 with offset -1000 for processing baseline 04.00 and later. Valid = SCL not 0, 1, 3, 8, 9, 10 or 11; water = valid and MNDWI (B03, B11) above 0; B11 subtracted from every band as a residual glint and haze correction and pixels with B11 above 0.03 dropped. Turbidity proxy = Dogliotti et al. (2015) T = A rho / (1 - rho / C) with A = 228.1, C = 0.1641 on B04 and A = 3078.9, C = 0.2112 on B8A, blended linearly for B04 between 0.05 and 0.07. NDCI = (B05 - B04) / (B05 + B04). Output: per-scene float16 index windows in the S2WQ_WORK folder (not committed).</procdesc>
+        <srcused>S2L2A</srcused>
+        <procdate>20261023</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Lake masks (scripts/06_lake_masks.py): water frequency from the 72 monthly scenes; open water = water in at least 90 percent of at least 12 clear observations; eroded by 3 pixels; Lake Pontchartrain assembled from three seeded components split by the Causeway and the I-10 twin span. Output: data/lake_mask_40m.tif; data/lake_open_water.geojson; data/lake_mask_areas.csv.</procdesc>
+        <srcused>S2L2A</srcused>
+        <procdate>20261023</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Lake time series (scripts/07_lake_timeseries.py): lake medians per scene; a lake and scene pair kept if at least 50 percent of the mask was valid. Output: outputs/tables/lake_scene_stats.csv.</procdesc>
+        <srcused>S2L2A</srcused>
+        <procdate>20261023</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Raster export (scripts/10_maps_gif.py (reference median block)): pixel-wise median of NDCI over the 38 scenes, set to NaN where fewer than 10 clear water observations were available, and restricted to the open-water lake mask (data/lake_mask_40m.tif). Written as float32 GeoTIFF, EPSG:32615, 40 m, nodata NaN, DEFLATE with predictor 3, tiled. Output: outputs/rasters/ndci_median_2021_2024_40m.tif.</procdesc>
+        <srcused>S2L2A</srcused>
+        <procdate>20261023</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>FGDC CSDGM metadata written from the README, the scripts and direct inspection of the GeoTIFF with rasterio (extent, CRS, cell size, value range).</procdesc>
+        <procdate>20261024</procdate>
+      </procstep>
+    </lineage>
+    <cloud>Unknown</cloud>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Grid Cell</rasttype>
+      <rowcount>1189</rowcount>
+      <colcount>2148</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>15</utmzone>
+            <transmer>
+              <sfctrmer>0.9996</sfctrmer>
+              <longcm>-93.0</longcm>
+              <latprjo>0.0</latprjo>
+              <feast>500000.0</feast>
+              <fnorth>0.0</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>40.0</absres>
+            <ordres>40.0</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>World Geodetic System of 1984</horizdn>
+        <ellips>World Geodetic System of 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ndci_median_2021_2024_40m.tif</enttypl>
+        <enttypd>Single-band float32 raster on a 40 m UTM zone 15N grid; one value per cell.</enttypd>
+        <enttypds>Anamika Dristi, this study (scripts/10_maps_gif.py)</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>NDCI (band 1)</attrlabl>
+        <attrdef>Pixel-wise median of the Normalized Difference Chlorophyll Index, (B05 - B04) / (B05 + B04), over 38 reference monthly scenes (Mishra and Mishra 2012).</attrdef>
+        <attrdefs>Anamika Dristi, this study (scripts/10_maps_gif.py)</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.1774</rdommin>
+            <rdommax>0.1081</rdommax>
+            <attrunit>dimensionless index</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NaN</edomv>
+            <edomvd>No data: not open water, cloud or shadow, high B11 reflectance, outside the lake mask or outside the scene footprint</edomvd>
+            <edomvds>Anamika Dristi, this study (scripts/10_maps_gif.py)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Relative water-quality proxy; values are not calibrated concentrations. See the README Methods and Limitations sections for the algorithm details and matchup statistics.</eaover>
+      <eadetcit>README.md of the repository; Dogliotti, A.I. and others (2015) Remote Sensing of Environment 156:157-168; Mishra, S. and Mishra, D.R. (2012) Remote Sensing of Environment 117:394-406.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Anamika Dristi</cntper>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <city>Houston</city>
+          <state>TX</state>
+          <postal>Not provided</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>Not provided (contact by email)</cntvoice>
+        <cntemail>anamikadristi@gmail.com</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>GitHub repository anamikadristi/lake-pontchartrain-sentinel2-water-quality, file outputs/rasters/ndci_median_2021_2024_40m.tif</resdesc>
+    <distliab>This dataset is an independent analysis of public data, provided as is, without warranty of any kind. The author is not responsible for any use of these data. Read the attribute accuracy and completeness sections before use.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>GeoTIFF</formname>
+          <formvern>1.0 (GeoKey directory revision 1.0, written by GDAL through rasterio)</formvern>
+          <formspec>Single band, float32, nodata NaN, EPSG:32615</formspec>
+          <filedec>DEFLATE compression with floating point predictor, tiled</filedec>
+          <transize>3.633</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://github.com/anamikadristi/lake-pontchartrain-sentinel2-water-quality/blob/main/outputs/rasters/ndci_median_2021_2024_40m.tif</networkr>
+              </networka>
+            </computer>
+            <accinstr>Download the file from the GitHub repository page (no account needed for public repositories).</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+    <techpreq>Any GIS that reads GeoTIFF (for example QGIS, ArcGIS Pro, GDAL).</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20261024</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Anamika Dristi</cntper>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <city>Houston</city>
+          <state>TX</state>
+          <postal>Not provided</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>Not provided (contact by email)</cntvoice>
+        <cntemail>anamikadristi@gmail.com</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

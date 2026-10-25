@@ -198,6 +198,10 @@ outputs/
   rasters/  reference median turbidity and NDCI, 13 May 2019 turbidity (GeoTIFF)
 ```
 
+## Metadata
+
+FGDC CSDGM (FGDC-STD-001-1998) metadata for the three GeoTIFFs in `outputs/rasters/` are in [`metadata/`](metadata/), validated against the official FGDC XML Schema and the USGS `mp` parser.
+
 ## Citation and author
 
 Anamika Dristi, Ph.D. (2026). *Lake Pontchartrain and Lake Maurepas: Sentinel-2 water-quality proxies, 2019-2024.* GitHub repository `lake-pontchartrain-sentinel2-water-quality`. Code: MIT License.
